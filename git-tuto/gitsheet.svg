@@ -1,0 +1,320 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5d -->
+<!-- CreationDate: Sat Mar  5 18:00:15 2011 -->
+<!-- Magnification: 1.050 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="11.2in" height="6.5in"
+	viewBox="748 1866 13447 7841">
+<g style="stroke-width:.025in; fill:none">
+<!-- Line -->
+<polyline points="7086,2598
+7086,8251
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:83 83;"/>
+<!-- Arrowhead on XXXpoint 7086 2598 - 7086 8551-->
+<polygon points="7007 8285
+7086 8537
+7165 8285
+7007 8285
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="7086,3307
+5905,4015
+5905,7543
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:83 83;"/>
+<!-- Arrowhead on XXXpoint 5905 4015 - 5905 7842-->
+<polygon points="5826 7576
+5905 7828
+5984 7576
+5826 7576
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="7086,5433
+6120,6012
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:83 83;"/>
+<!-- Arrowhead on XXXpoint 7086 5433 - 5864 6165-->
+<polygon points="6051 5961
+5876 6158
+6132 6095
+6051 5961
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="8031,4724
+11340,3399
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 8031 4724 - 11647 3277-->
+<polygon points="11429 3448
+11634 3282
+11371 3302
+11429 3448
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="11574,2834
+8274,3714
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 11574 2834 - 7954 3799-->
+<polygon points="8191 3654
+7968 3796
+8232 3806
+8191 3654
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="5905,6850
+6870,7429
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:83 83;"/>
+<!-- Arrowhead on XXXpoint 5905 6850 - 7126 7583-->
+<polygon points="6857 7512
+7114 7575
+6938 7378
+6857 7512
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line: box -->
+<rect x="5433" y="1889" width="2362" height="7795" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2362,3779
+2362,3321
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2362 3779 - 2362 2992-->
+<polygon points="2440 3257
+2362 3005
+2283 3257
+2440 3257
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line: box -->
+<rect x="1417" y="1889" width="1889" height="944" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3543,2362
+4944,2362
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3543 2362 - 5275 2362-->
+<polygon points="5009 2440
+5261 2362
+5009 2283
+5009 2440
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="5196,4724
+3794,4724
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 5196 4724 - 3464 4724-->
+<polygon points="3730 4645
+3478 4724
+3730 4803
+3730 4645
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="3543,5905
+4944,5905
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3543 5905 - 5275 5905-->
+<polygon points="5009 5984
+5261 5905
+5009 5826
+5009 5984
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line: box -->
+<rect x="1417" y="4015" width="1889" height="2598" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2834,7795
+2834,7101
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2834 7795 - 2834 6771-->
+<polygon points="2913 7037
+2834 6785
+2755 7037
+2913 7037
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="1889,6850
+1889,7543
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 1889 6850 - 1889 7874-->
+<polygon points="1811 7608
+1889 7860
+1968 7608
+1811 7608
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line: box -->
+<rect x="1417" y="8031" width="1889" height="1653" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="11574,2362
+8281,2141
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 11574 2362 - 7952 2120-->
+<polygon points="8222 2059
+7966 2121
+8212 2216
+8222 2059
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="8031,7559
+11331,8438
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 8031 7559 - 11650 8523-->
+<polygon points="11372 8531
+11636 8520
+11413 8379
+11372 8531
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="8031,5669
+11322,5669
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 8031 5669 - 11653 5669-->
+<polygon points="11387 5748
+11639 5669
+11387 5590
+11387 5748
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line: box -->
+<rect x="11811" y="1889" width="2362" height="1889" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="11811" y="4960" width="2362" height="1653" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="11811" y="8031" width="2362" height="1653" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1511" y="4110" width="1700" height="2409" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="6141" y="6850" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">merge</text>
+<!-- Text -->
+<text xml:space="preserve" x="5669" y="2362" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">Local repository</text>
+<!-- Text -->
+<text xml:space="preserve" x="7086" y="8976" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">master</text>
+<!-- Text -->
+<text xml:space="preserve" x="5669" y="3543" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">branch</text>
+<!-- Text -->
+<text xml:space="preserve" x="6047" y="5385" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">rebase</text>
+<!-- Text -->
+<text xml:space="preserve" x="6141" y="5055" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">merge</text>
+<!-- Text -->
+<text xml:space="preserve" x="2598" y="3543" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">add</text>
+<!-- Text -->
+<text xml:space="preserve" x="2362" y="2362" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Index</text>
+<!-- Text -->
+<text xml:space="preserve" x="3779" y="2125" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">commit</text>
+<!-- Text -->
+<text xml:space="preserve" x="3779" y="4488" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">checkout</text>
+<!-- Text -->
+<text xml:space="preserve" x="3543" y="5669" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">commit -a</text>
+<!-- Text -->
+<text xml:space="preserve" x="1653" y="7322" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="end">stash</text>
+<!-- Text -->
+<text xml:space="preserve" x="3070" y="7322" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">stash pop</text>
+<!-- Text -->
+<text xml:space="preserve" x="8740" y="2598" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">clone</text>
+<!-- Text -->
+<text xml:space="preserve" x="8503" y="3307" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">pull</text>
+<!-- Text -->
+<text xml:space="preserve" x="9212" y="4488" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">push</text>
+<!-- Text -->
+<text xml:space="preserve" x="9212" y="7795" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">bundle create ... --all</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="8740" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Backup Bundle</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="9212" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">(Archive)</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="6141" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Repository</text>
+<!-- Text -->
+<text xml:space="preserve" x="8503" y="5433" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">clone --mirror</text>
+<!-- Text -->
+<text xml:space="preserve" x="8503" y="6141" fill="#000000"  font-family="Courier" font-style="normal" font-weight="normal" font-size="227" text-anchor="start">push --mirror</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="5669" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Personal Backup</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="3307" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Repository</text>
+<!-- Text -->
+<text xml:space="preserve" x="12992" y="2598" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Team</text>
+<!-- Text -->
+<text xml:space="preserve" x="2362" y="8503" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Stash</text>
+<!-- Text -->
+<text xml:space="preserve" x="2362" y="5196" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Copy</text>
+<!-- Text -->
+<text xml:space="preserve" x="2362" y="4724" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="227" text-anchor="middle">Working</text>
+</g>
+</svg>
